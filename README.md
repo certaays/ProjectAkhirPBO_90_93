@@ -1,7 +1,7 @@
 # ProjectAkhirPBO_90_93
 Project Akhir Praktikum Pemrograman Berorientasi Objek 
 
-Aliefa Haniif - Certa Yustitia
+Aliefa Haniif Setyaningrum - Certa Yustitia
 
 123190090 - 123190093
 
